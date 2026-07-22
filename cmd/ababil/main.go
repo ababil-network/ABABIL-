@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/ababil-network/ABABIL/app"
 
 func main() {
-	fmt.Println("ABABIL blockchain starting...")
+	app.Start()
 }
