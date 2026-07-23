@@ -1,3 +1,3 @@
-module github.com/ababil-network/ABABIL
+module github.com/ababil-network/ababil
 
-go 1.23
+go 1.24
