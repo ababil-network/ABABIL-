@@ -8,6 +8,6 @@ func (AppModule) Name() string {
 	return "ababil"
 }
 
-func (AppModule) Register() {
-	fmt.Println("ABABIL module registered")
+func (AppModule) RegisterServices() {
+	fmt.Println("ABABIL module services registered")
 }
